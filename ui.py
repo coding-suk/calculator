@@ -28,8 +28,8 @@ class View(QWidget):
 
         hbox_formular = QHBoxLayout()
         hbox_formular.addWidget(self.le1)
-        hbox_formular.addwidget(self.cb)
-        hbox_formular.addwidget(self.le2)
+        hbox_formular.addWidget(self.cb)
+        hbox_formular.addWidget(self.le2)
 
         hbox = QHBoxLayout()
         hbox.addStretch(1)
